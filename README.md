@@ -15,7 +15,9 @@ Instructions for playing:
 There is no music. The only two sound effects are 1) pausing and 2) taking damage. The game does not use a save battery. No scrolling. This is a very small game (24 KB). 
 The goal is to get the maximum score. If the game feels too easy, Player 2 can annoy Player 1 by controlling the antagonist.
 
-You can also make a real NES cartridge with the PRG and CHR bin-files. Thanks for trying out this game!
+You can also make a real NES cartridge with the PRG and CHR bin-files. You can make your own cartridge labels.
+
+Thanks for trying out this game!
 
 ----
 
