@@ -28,5 +28,5 @@ Quick instructions for re-programming the game:
 
 For editing the graphics, there is the file "therevengeofatsokynala.chr". There are unused graphics that were not necessary after all.
 
-I do not own NESASM3. NESASM3 can be downloaded for example from "https://www.patater.com/gbaguy/day1n.htm". The program has also been available on other sites. NintendoAge and NesDev.org helped when programming.
+I do not own NESASM3. NESASM3 can be downloaded for example from "https://www.patater.com/gbaguy/day1n.htm". The program has also been available on other sites. 
 NES splitter from "romhacking.net" was used in separating the PRG and CHR files from the NES file.
