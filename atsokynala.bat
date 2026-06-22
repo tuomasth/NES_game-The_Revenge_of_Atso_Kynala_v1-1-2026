@@ -1,2 +1,0 @@
-NESASM3 therevengeofatsokynala.asm
-pause
